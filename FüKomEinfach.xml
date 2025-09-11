@@ -1,0 +1,43 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font&amp;gt;&amp;lt;b&amp;gt;TMO: HO VS 08 VET&amp;lt;br&amp;gt;7248&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#ffffff, #2b2b00);overflow=visible;strokeOpacity=100;dropTarget=0;expand=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-8.526512829121202e-14\" width=\"151.6\" height=\"37.79\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 151.6,
+    "h": 37.79,
+    "aspect": "fixed",
+    "title": "TMO"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font&amp;gt;&amp;lt;b&amp;gt;DMO: 609_R&amp;lt;br&amp;gt;(2m 49 W/U)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#ffffff, #2b2b00);rounded=0;strokeWidth=3;autosize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.842170943040401e-14\" y=\"1.1368683772161603e-13\" width=\"151.6\" height=\"37.79\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 151.6,
+    "h": 37.79,
+    "aspect": "fixed",
+    "title": "DMO/2m"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font&amp;gt;&amp;lt;b&amp;gt;DMO: 612_R&amp;lt;br&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#ffffff, #2b2b00);rounded=0;strokeWidth=3;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"1.1368683772161603e-13\" width=\"151.6\" height=\"37.79\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 151.6,
+    "h": 37.79,
+    "aspect": "fixed",
+    "title": "DMO"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;flowAnimation=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"320\" y=\"1\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 1.5555555555555303,
+    "aspect": "fixed",
+    "title": "Linie"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;Führung Kräfte&amp;lt;/b&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;fillColor=light-dark(#ffffff, #2b2b00);strokeWidth=3;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"119\" height=\"60.21\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 119,
+    "h": 60.21,
+    "aspect": "fixed",
+    "title": "Weiß"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;&amp;lt;font&amp;gt;TEL&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;fillColor=#FFFF33;strokeWidth=3;shadow=0;glass=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-4.263256414560601e-14\" width=\"110\" height=\"68.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 68.5,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
