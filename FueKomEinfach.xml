@@ -35,7 +35,7 @@
     "title": "Weiß"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;&amp;lt;font&amp;gt;TEL&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;fillColor=#FFFF33;strokeWidth=3;shadow=0;glass=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-4.263256414560601e-14\" width=\"110\" height=\"68.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;&amp;lt;font&amp;gt;TEL&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;fillColor=#FFFF33;strokeWidth=3;shadow=0;glass=0;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-5.684341886080802e-14\" width=\"110\" height=\"68.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 110,
     "h": 68.5,
     "aspect": "fixed"
